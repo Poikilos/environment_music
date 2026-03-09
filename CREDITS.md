@@ -1,0 +1,26 @@
+All of the music in this mod is listed/credited below by author, license, and source. Each track followed by an asterisk (`*`) has been edited from its original form, often to trim and fade the end of the track.
+
+- **Scott Buckley** -- [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), <https://www.scottbuckley.com.au/>
+  - Castles In The Sky (castlesinthesky.ogg)*
+  - Firefly (firefly.ogg)
+  - Machina (machina.ogg)*
+  - Reparateur (reparateur.ogg)*
+  - Skyward (skyward.ogg)*
+  - Tears In Rain (tearsinrain.ogg)*
+  - The Long Way Home (thelongwayhome.ogg)*
+  - Cobalt (cobalt.ogg)*
+  - Hymn (hymn.ogg)*
+  - Reverie (reverie.ogg)*
+  - Simplicity (simplicity.ogg)*
+- **Kevin MacLeod** -- [CC0](https://creativecommons.org/publicdomain/zero/1.0/), <https://www.freepd.com/>
+  - Screen Saver (screensaver.ogg)*
+  - Roquefort Prolog (roquefortprolog.ogg)*
+  - Infinite Peace (infinitepeace.ogg)*
+- **Jason Shaw** -- [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode), <https://audionautix.com/>
+  - Sunrise on Mars (sunriseonmars.ogg)*
+- **Sascha Ende** -- [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode), <https://filmmusic.io/>
+  - Atemubüngen (atemubungen.ogg)* [en: Breathing Excercises]
+  - Breezy Reflections (breezyreflections.ogg)*
+  - Dreamsphere 1 (dreamsphere1.ogg)*
+  - Image Film 033 (imagefilm033.ogg)*
+  - Lonely Fish (lonelyfish.ogg)*
